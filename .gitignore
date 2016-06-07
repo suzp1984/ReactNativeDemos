@@ -42,4 +42,4 @@ captures/
 /captures
 .idea/
 *~
-
+node_modules/
